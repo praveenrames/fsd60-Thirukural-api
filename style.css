@@ -1,0 +1,30 @@
+body{
+    background-image: url(./kanyakumari-saurabh.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-weight: 700;
+    color: azure;
+}
+button{
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: inset;
+}
+button:hover{
+     background-color: darkblue;
+     border: 2px solid white;
+     color:aliceblue;
+}
+#kural{
+     border-style: 2px solid;
+     border-color: aliceblue;
+}
+
+
+
